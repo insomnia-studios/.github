@@ -11,12 +11,12 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
 ### Team Leads
 
 - **Unai Medina**
-  - *Role:* CEO
-  - *GitHub:* [@unaimedina](https://github.com/unaimedina)
+  - Role: **CEO**
+  - GitHub: **[@UnaiMedina](https://github.com/unaimedina)**
 
 - **Jordi Xavier**
-  - *Role:* Lead Software Engineer
-  - *GitHub:* [@harpylmao](https://github.com/harpylmao)
+  - Role: **Lead Software Engineer**
+  - GitHub: **[@HarpyLMAO](https://github.com/harpylmao)**
 
 ### Developers
 
@@ -27,8 +27,8 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
 Explore our exciting projects that showcase our skills and commitment to excellence.
 
 1. **(TBD Server name)**
-   - *Description:* A new-era [Minecraft] server.
-   - *Twitter:* [Ryuu Network](https://twitter.com/RyuuNetwork)
+   - Description: **A new-era [Minecraft] server.**
+   - Twitter: **[Ryuu Network](https://twitter.com/RyuuNetwork)**
 
 ## Website
 
