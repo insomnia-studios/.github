@@ -1,4 +1,4 @@
-# Voltic Development Team
+# Voltic Studios Development Team
 
 Welcome to the Voltic Development Team's GitHub profile! 🚀
 
