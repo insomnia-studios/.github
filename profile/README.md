@@ -14,7 +14,7 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
   - Role: **CEO**
   - GitHub: **[@UnaiMedina](https://github.com/unaimedina)**
 
-- **Jordi Xavier**
+- **Jordi X. Macho**
   - Role: **Lead Software Engineer**
   - GitHub: **[@HarpyLMAO](https://github.com/harpylmao)**
 
