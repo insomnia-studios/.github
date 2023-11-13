@@ -28,7 +28,7 @@ Explore our exciting projects that showcase our skills and commitment to excelle
 
 1. **(TBD Server name)**
    - Description: **A new-era [Minecraft] server.**
-   - Twitter: **[Ryuu Network](https://twitter.com/RyuuNetwork)**
+   - Twitter: **[?](https://tbd.com)**
 
 ## Website
 
