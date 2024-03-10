@@ -26,8 +26,8 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
 
 Explore our exciting projects that showcase our skills and commitment to excellence.
 
-1. **OverWorld Roleplay**
-   - Description: **A new-era [FiveM roleplay] server.**
+1. **OverWorld**
+   - Description: **A new-era [FiveM] roleplay server.**
    - Twitter: **[@OverWorldCM](https://twitter.com/overworldcm)**
    - Website: **[overworld.es](https://overworld.es)**
 
