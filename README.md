@@ -1,10 +1,10 @@
-# Voltic Development Team
+# Insomnia Studios Development Team
 
-Welcome to the Voltic Development Team's GitHub profile! 🚀
+Welcome to the Insomnia Studios Team's GitHub profile! 🚀
 
 ## About Us
 
-At Voltic, we are a passionate and innovative development team dedicated to creating cutting-edge solutions that power the future. Our mission is to harness the latest technologies to build robust and scalable applications that meet the evolving needs of our clients.
+At Insomnia, we are a passionate and innovative development team dedicated to creating cutting-edge solutions that power the future. Our mission is to harness the latest technologies to build robust and scalable applications that meet the evolving needs of our clients.
 
 ## Meet the Team
 
@@ -15,7 +15,7 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
   - *GitHub:* [@unaimedina](https://github.com/unaimedina)
 
 - **Jordi Xavier**
-  - *Role:* Lead Software Engineer
+  - *Role:* CEO
   - *GitHub:* [@harpylmao](https://github.com/harpylmao)
 
 ### Developers
@@ -26,20 +26,16 @@ At Voltic, we are a passionate and innovative development team dedicated to crea
 
 Explore our exciting projects that showcase our skills and commitment to excellence.
 
-1. **(TBD Server name)**
-   - *Description:* A new-era [Minecraft] server.
-   - *Twitter:* [Ryuu Network](https://twitter.com/RyuuNetwork)
-
 ## Website
 
-Check out our official website [Voltic.site](https://voltic.site) for more information about our team, projects, and latest updates.
+Check out our official website [insomniastudios.dev](https://kaicen.online/jordi2/) for more information about our team, projects, and latest updates.
 
 ## Connect With Us
 
 Stay updated on our latest developments and connect with us on social media:
 
-- [Twitter](https://twitter.com/volticstudio)
+- [X](https://x.com/insomn1astudios)
 
-Feel free to reach out to us via email at [info@voltic.site](mailto:info@voltic.site) for inquiries and collaborations.
+Feel free to reach out to us via email at [contact@insomniastudios.dev](mailto:contact@insomniastudios.dev) for inquiries and collaborations.
 
-Thank you for visiting the Voltic Development Team's GitHub profile. We look forward to shaping the future with you! ⚡️
+Thank you for visiting the Insomnia Studios Team's GitHub profile. We look forward to shaping the future with you! ⚡️
